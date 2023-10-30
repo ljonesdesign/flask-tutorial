@@ -25,11 +25,8 @@
    
 ## Install Flask
 
-> Also includes Frozen-Flask and Flask-FlatPages so we can create a static site.
-
 ```
-pip install Flask Frozen-Flask Flask-FlatPages
-```
+pip install Flask 
 ## 
 
 ## Server.py
